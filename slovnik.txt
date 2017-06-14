@@ -1,0 +1,1 @@
+{"dog": "pejsek", "cat": "ko\u010dka", "rabbit": "kr\u00e1l\u00edk", "elephant": "slon", "rat": "krysa", "hippo": "hroch", "mouse": "my\u0161", "bat": "netop\u00fdr", "bird": "pt\u00e1k"}
